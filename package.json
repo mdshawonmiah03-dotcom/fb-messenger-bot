@@ -1,1 +1,12 @@
+{
+  "name": "fb-messenger-bot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node api/webhook.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
 
